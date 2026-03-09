@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ルーズ・ユアセルフ",
+  "base_artist": "エミネム",
+  "createdAt": "2026-03-09T11:00:48.673480Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lose Yourself",
+      "artist": "Eminem",
+      "has_synced": false,
+      "path": "select/pl_01_Lose_Yourself_Eminem.txt"
+    }
+  ]
+}
